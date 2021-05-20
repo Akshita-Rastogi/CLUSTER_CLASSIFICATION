@@ -16,7 +16,7 @@ Keras-Applications==1.0.8
 Keras-Preprocessing==1.1.0
 Markdown
 MarkupSafe==1.1.1
-numpy 
+numpy==1.19.5
 scikit-learn==0.22.2.post1
 termcolor==1.1.0
 threadpoolctl==2.1.0
@@ -26,3 +26,4 @@ wrapt==1.12.1
 zipp==3.1.0
 gunicorn==20.1.0
 Cython==0.29.23
+pandas==1.1.5
